@@ -1,5 +1,6 @@
 ## ignore file
 alien_invasion.sublime-project
 alien_invasion.sublime-workspace
+*.pyc
 
 ## ignore directory
